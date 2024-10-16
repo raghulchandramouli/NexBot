@@ -1,0 +1,10 @@
+boto3
+langchain
+faiss-cpu
+numpy
+PyPDF2
+langchain-community
+fastapi
+uvicorn
+mangum
+pypdf
